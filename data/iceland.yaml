@@ -1,0 +1,6 @@
+country: Iceland
+country_code: IS
+authorities:
+  - name: Samgöngustofa (Icelandic Transport Authority (ICETRA))
+    url: https://www.icetra.is/
+    response_time: up to 45 days

@@ -1,0 +1,5 @@
+country: Czechia
+country_code: CZ
+authorities:
+  - name: Ministry of Transport, Civil Aviation Authority
+    url: https://www.caa.gov.cz/en/

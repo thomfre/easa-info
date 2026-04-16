@@ -1,0 +1,5 @@
+country: Germany
+country_code: DE
+authorities:
+  - name: Luftfahrt-Bundesamt (LBA) (The German Federal Aviation Office)
+    url: https://www.lba.de/EN/Home/home_node.html

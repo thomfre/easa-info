@@ -1,0 +1,5 @@
+country: France
+country_code: FR
+authorities:
+  - name: Direction Générale de l'Aviation Civile (DGAC) (The French Civil Aviation Authority)
+    url: https://www.ecologie.gouv.fr/

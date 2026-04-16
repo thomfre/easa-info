@@ -1,0 +1,5 @@
+country: Spain
+country_code: ES
+authorities:
+  - name: Agencia Estatal de Seguridad Aérea (AESA)
+    url: https://www.seguridadaerea.gob.es/

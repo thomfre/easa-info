@@ -1,0 +1,5 @@
+country: Greece
+country_code: GR
+authorities:
+  - name: Hellenic Civil Aviation Authority (HCAA)
+    url: https://hcaa.gov.gr/en

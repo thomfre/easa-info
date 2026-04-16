@@ -1,0 +1,5 @@
+country: Switzerland
+country_code: CH
+authorities:
+  - name: Federal Office of Civil Aviation (FOCA)
+    url: https://www.bazl.admin.ch/en

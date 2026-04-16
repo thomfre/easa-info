@@ -1,0 +1,5 @@
+country: Portugal
+country_code: PT
+authorities:
+  - name: Autoridade Nacional da Aviação Civil (ANAC) (The Portuguese Civil Aviation Authority)
+    url: https://www.anac.pt/

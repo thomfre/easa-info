@@ -1,0 +1,5 @@
+country: Latvia
+country_code: LV
+authorities:
+  - name: Civil Aviation Agency of Latvia (CAA)
+    url: https://www.caa.gov.lv/en

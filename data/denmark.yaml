@@ -1,0 +1,5 @@
+country: Denmark
+country_code: DK
+authorities:
+  - name: Trafikstyrelsen (Danish Civil Aviation and Railway Authority)
+    url: https://www.en.trafikstyrelsen.dk/

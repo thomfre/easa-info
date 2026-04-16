@@ -1,0 +1,5 @@
+country: Hungary
+country_code: HU
+authorities:
+  - name: National Transport Authority (NKH)
+    url: https://ehivatal.nkh.gov.hu/aviation

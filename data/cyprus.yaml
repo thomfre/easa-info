@@ -1,0 +1,5 @@
+country: Cyprus
+country_code: CY
+authorities:
+  - name: Department of Civil Aviation (DCA) Cyprus
+    url: https://www.mcw.gov.cy/mcw/dca/dca.nsf/index_en/index_en?OpenDocument

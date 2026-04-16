@@ -1,0 +1,9 @@
+country: Norway
+country_code: NO
+authorities:
+  - name: Luftfartstilsynet (The Civil Aviation Authority of Norway)
+    url: https://www.luftfartstilsynet.no/en/
+    response_time: 3 weeks to 3 months
+  - name: Norsk Luftsportstilsyne (Norwegian Air Sports Authority)
+    url: https://www.luftsportstilsynet.no/
+    note: Personnel licensing for SPL and BPL

@@ -1,0 +1,11 @@
+country: Austria
+country_code: AT
+authorities:
+  - name: Austro Control GmbH
+    url: https://www.austrocontrol.at/en/aviation_agency/
+    other_urls:
+      - name: Forms PART-FCL
+        url: https://www.austrocontrol.at/en/pilots/pilot_licenses/forms_part-fcl
+other_relevant_parties:
+  - name: Federal Ministry of Transport, Innovation and Technology (BMVIT)
+    url: https://www.bmk.gv.at/

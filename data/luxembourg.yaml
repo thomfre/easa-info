@@ -1,0 +1,5 @@
+country: Luxembourg
+country_code: LU
+authorities:
+  - name: Direction de l'Aviation Civile (DAC) (Directorate of Civil Aviation)
+    url: https://dac.gouvernement.lu/en.html

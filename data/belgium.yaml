@@ -1,0 +1,5 @@
+country: Belgium
+country_code: BE
+authorities:
+  - name: Service Public Federal Mobilité et Transports - Direction Generale Transport Aérien
+    url: https://mobilit.belgium.be/en/aviation

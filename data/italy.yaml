@@ -1,0 +1,5 @@
+country: Italy
+country_code: IT
+authorities:
+  - name: Ente Nazionale per l'Aviazione Civile (ENAC) (Italian Civil Aviation Authority)
+    url: https://www.enac.gov.it/

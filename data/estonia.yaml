@@ -1,0 +1,5 @@
+country: Estonia
+country_code: EE
+authorities:
+  - name: The Estonian Transport Administration
+    url: https://www.transpordiamet.ee/en

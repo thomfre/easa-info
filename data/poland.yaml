@@ -1,0 +1,5 @@
+country: Poland
+country_code: PL
+authorities:
+  - name: Urząd Lotnictwa Cywilnego (ULC) (The Civil Aviation Authority of Poland)
+    url: https://www.ulc.gov.pl/en/

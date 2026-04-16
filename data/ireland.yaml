@@ -1,0 +1,5 @@
+country: Ireland
+country_code: IE
+authorities:
+  - name: Irish Aviation Authority (IAA)
+    url: https://www.iaa.ie/

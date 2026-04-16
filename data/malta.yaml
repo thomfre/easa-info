@@ -1,0 +1,5 @@
+country: Malta
+country_code: MT
+authorities:
+  - name: Transport Malta
+    url: https://www.transport.gov.mt/aviation-502
