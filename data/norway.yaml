@@ -4,6 +4,31 @@ authorities:
   - name: Luftfartstilsynet (The Civil Aviation Authority of Norway)
     url: https://www.luftfartstilsynet.no/en/
     response_time: 3 weeks to 3 months
+    licenses:
+      digital: No
+    applications:
+      mail: Yes
+      email: Yes
+      digital: No
+    tests:
+      notification: For Norwegian examiners, 72 hours prior to test, for foreign examiners, before the test is conducted except for license issue, which require notification 15 working days prior to skill test
+      initial:
+        license_class_or_rating: License endorsement not permitted
+        instructor: License endorsement not permitted
+      revalidation:
+        proficiency_check: License endorsement permitted
+        aoc: License endorsement not permitted
+      renewal:
+        proficiency_check: License endorsement permitted (as long as rating is printed on license)
+        aoc: License endorsement not permitted
   - name: Norsk Luftsportstilsyne (Norwegian Air Sports Authority)
     url: https://www.luftsportstilsynet.no/
     note: Personnel licensing for SPL and BPL
+    licenses:
+      digital: No
+    applications:
+      mail: Yes
+      email: Yes
+      digital: No
+fcl945:
+  note: FCL.945 is not being authorized for Norwegian license holders
