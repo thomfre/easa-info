@@ -4,7 +4,10 @@ authorities:
   - name: Luftfartstilsynet (The Civil Aviation Authority of Norway)
     url: https://www.luftfartstilsynet.no/en/
     response_time: 3 weeks to 3 months
-    price_list: https://lovdata.no/dokument/SF/forskrift/2026-01-28-125
+    cost:
+      range: high
+      payment: invoice / wire transfer
+      list: https://lovdata.no/dokument/SF/forskrift/2026-01-28-125
     licenses:
       digital: No
     applications:
